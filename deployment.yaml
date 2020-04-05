@@ -29,7 +29,7 @@ spec:
         image: gcr.io/incentro-oss/covid19:1.0
         command: ["FAHClient"]
         args:
-          - --user=Incentro
+          - --user=Robbie_Jerrom
           - --team=52737
           - --gpu=false
           - --smp=true

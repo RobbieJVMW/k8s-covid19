@@ -30,7 +30,7 @@ spec:
         command: ["FAHClient"]
         args:
           - --user=Incentro
-          - --team=239336
+          - --team=52737
           - --gpu=false
           - --smp=true
           - --priority=low
@@ -38,7 +38,7 @@ spec:
         resources:
           requests:
             memory: "512Mi"
-            cpu: "1"
+            cpu: "2"
           limits:
             memory: "512Mi"
-            cpu: "1"
+            cpu: "2"
